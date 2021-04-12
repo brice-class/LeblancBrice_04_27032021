@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-display: auto;
 }
 
 a,
@@ -178,6 +179,7 @@ header{
 }
 .site-navigation{
     width: 30%;
+    list-style-type: none;
 }
 .site-navigation a{
     text-decoration: none;
